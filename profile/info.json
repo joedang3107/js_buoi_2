@@ -1,0 +1,23 @@
+[
+    {
+        "Name": "Đặng Hữu Thiện",
+        "Birthday": "31/07/199x",
+        "Phone": "0123456789",
+        "Mail": "thiendh@gmail.com",
+        "Address": "68 Nguyen Co Thach, Nam Tu Liem, Ha Noi",
+        "Aim": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis amet at incidunt? Odit autem illum itaque soluta aspernatur totam ipsa? Beatae corporis delectus sint natus voluptatum aut nisi, recusandae earum?",
+        "Softskills": {
+            "0":"Teamwork",
+            "1":"Problem solving skills",
+            "2":"Time Management Skill"
+        },
+        "Graduate": "None",
+        "Score": "None",
+        "Experience":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis amet at incidunt? Odit autem illum itaque soluta aspernatur totam ipsa? Beatae corporis delectus sint natus voluptatum aut nisi, recusandae earum?",
+        "Hobbys": {
+            "0":"Play football",
+            "1":"Traveling",
+            "2":"Visiting friends"
+        }
+    }
+]
